@@ -20,6 +20,25 @@ cd exercises/03_recursion/4.4_recursive_binary_search/
 make
 ```
 
+## 🧹 Maintenance
+
+This repository uses a cleanup script to maintain focus on C/C++ implementations:
+
+```bash
+# Run cleanup script (removes non-C/C++ language folders)
+./cleanup_languages.sh
+```
+
+**Note:** The cleanup script removed 211+ directories of other programming languages to keep the repository focused and lightweight.
+
+## 🤝 Contributing
+
+This is a personal learning repository, but feel free to:
+
+- **Report bugs** in implementations
+- **Suggest improvements** to existing code
+- **Share your own solutions** to exercises
+
 ---
 
 Based on [Grokking Algorithms](https://www.manning.com/bhargava) by Aditya Bhargava
